@@ -95,8 +95,5 @@
     "gulp": "^3.8.10",
     "sinon": "^1.13.0"
   },
-  "resolutions": {
-    "bitcore-lib/**/bn.js": "=2.0.4"
-  },
   "license": "MIT"
 }
