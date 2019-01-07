@@ -97,6 +97,6 @@
   },
   "resolutions": {
     "bitcore-lib/**/bn.js": "=2.0.4"
-  }
+  },
   "license": "MIT"
 }
