@@ -80,6 +80,7 @@
     "request": "browser-request"
   },
   "dependencies": {
+    "elliptic": "^6.4.0"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",
