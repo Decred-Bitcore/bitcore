@@ -80,7 +80,6 @@
     "request": "browser-request"
   },
   "dependencies": {
-    "elliptic": "^6.4.0"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",
@@ -91,7 +90,6 @@
     "sinon": "^1.13.0"
   },
   "resolutions": {
-    "elliptic/**/bn.js": "=2.0.4"
   },
   "engines": {
     "npm": ">=2.0.0"
